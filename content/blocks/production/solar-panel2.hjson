@@ -1,0 +1,10 @@
+type: SolarGenerator
+
+size: 2
+health: 9000
+
+hasPower: true
+powerProduction: 0.16666
+
+category: power
+buildVisibility: "sandboxOnly"

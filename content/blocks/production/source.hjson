@@ -1,0 +1,13 @@
+type: powerSource
+
+health: 10000
+
+laserRange: 8
+maxNodes: 200
+absorbLasers: false
+
+size: 1
+
+category: power
+alwaysUnlocked: true
+buildVisibility: "shown"

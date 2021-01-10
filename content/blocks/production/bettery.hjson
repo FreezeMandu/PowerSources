@@ -1,0 +1,15 @@
+type: battery
+
+health: 30000
+
+consumes: {
+ powerBuffered: 1200000
+}
+absorbLasers: true
+
+category: power
+alwaysUnlocked: true
+buildVisibility: "shown"
+
+
+
