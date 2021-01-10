@@ -1,0 +1,14 @@
+type: LightBlock
+size: 1
+health: 3000
+brightness: 0.75
+radius: 360
+
+hasPower: true
+consumes: {
+ power: 0.05
+}
+
+category: effect
+buildVisibility: "shown"
+research: power-node

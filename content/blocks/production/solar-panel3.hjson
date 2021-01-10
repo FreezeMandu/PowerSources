@@ -1,0 +1,10 @@
+type: SolarGenerator
+
+size: 3
+health: 81000
+
+hasPower: true
+powerProduction: 1.66666
+
+category: power
+buildVisibility: "shown"

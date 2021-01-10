@@ -1,0 +1,8 @@
+type: itemSource
+
+health: 3000
+size: 1
+
+category: distribution
+alwaysUnlocked: true
+buildVisibility: "shown"

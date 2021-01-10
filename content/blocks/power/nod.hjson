@@ -1,0 +1,17 @@
+type: powerNode
+
+size: 1
+health: 1000
+laserRange: 10
+maxNodes: 20
+
+hasPower: true
+consumes: {
+ powerBuffered: 100
+ power: 0.1
+}
+
+research: power-node
+category: power
+alwaysUnlocked: true
+buildVisibility: "shown"
