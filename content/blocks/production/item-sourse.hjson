@@ -1,7 +1,8 @@
 type: itemSource
 
-health: 3000
+health: 40000
 size: 1
+absorbLasers: true
 
 category: distribution
 alwaysUnlocked: true

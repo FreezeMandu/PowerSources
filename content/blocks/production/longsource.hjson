@@ -4,6 +4,7 @@ health: 100000
 
 laserRange: 710
 maxNodes: 10000
+absorbLasers: true
 
 size: 1
 
