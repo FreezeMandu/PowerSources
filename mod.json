@@ -2,6 +2,7 @@
   "name": "powersources",
   "displayName": "Power Sources mod",
   "author": "Mandu",
-  "version": "0.61",
-  "minGameVersion": "136"
+  "version": "0.62",
+  "minGameVersion": "136",
+  "description": "Credit: Yoru-Kitsune"
 }
