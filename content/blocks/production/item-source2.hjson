@@ -1,0 +1,9 @@
+type: itemSource
+
+health: 40000
+size: 1
+absorbLasers: true
+
+category: distribution
+alwaysUnlocked: true
+buildVisibility: "shown"
