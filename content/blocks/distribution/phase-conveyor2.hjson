@@ -13,4 +13,4 @@ itemCapacity: 1
 
 category: distribution
 alwaysUnlocked: true
-buildVisibility: "shown"
+buildVisibility: "disable"
