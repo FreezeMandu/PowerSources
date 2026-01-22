@@ -4,7 +4,7 @@ health: 180
 size: 1
 reload: 60.0
 range: 50.0
-speedBoost: 1.0
+speedBoost: 1.25
 
 hasBoost: true
 hasPower: true
