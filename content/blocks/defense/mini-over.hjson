@@ -13,4 +13,5 @@ consumes: {
 }
 
 category: effect
+alwaysUnlocked: true
 buildVisibility: "shown"
