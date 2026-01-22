@@ -1,0 +1,16 @@
+type: overdriveProjector
+
+health: 180
+size: 1
+reload: 60.0
+range: 50.0
+speedBoost: 1.25
+
+hasBoost: true
+hasPower: true
+consumes: {
+ power: 0.05
+}
+
+category: effect
+buildVisibility: "shown"
