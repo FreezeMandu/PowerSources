@@ -6,7 +6,9 @@ powerProduction: 4.5
 itemDuration: 180
 
 itemCapacity: 15
-filterItem: copper
+consumes: {
+    items: [copper/1]
+}
 
 category: power
 buildVisibility: "shown"
