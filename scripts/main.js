@@ -1,0 +1,1 @@
+Items.copper.radioactivity = 0.5;

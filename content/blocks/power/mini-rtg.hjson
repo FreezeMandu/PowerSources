@@ -1,0 +1,14 @@
+type: consumeGenerator
+
+size: 1
+health: 200
+powerProduction: 4.5
+itemDuration: 180
+
+consumes: {
+    type: consumeItemRadioactive
+}
+
+category: effect
+buildVisibility: "shown"
+alwaysUnlocked: true
