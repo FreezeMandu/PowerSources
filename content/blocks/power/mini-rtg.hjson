@@ -6,7 +6,7 @@ powerProduction: 4.5
 itemDuration: 180
 
 consumes: {
-    type: consumeItemRadioactive
+
 }
 
 category: power
