@@ -9,6 +9,6 @@ consumes: {
     type: consumeItemRadioactive
 }
 
-category: effect
-buildVisibility: "shown"
+category: power
+buildVisibility: "hidden"
 alwaysUnlocked: true
