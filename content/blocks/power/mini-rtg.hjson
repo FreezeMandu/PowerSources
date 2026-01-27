@@ -6,7 +6,7 @@ powerProduction: 4.5
 itemDuration: 180
 
 itemCapacity: 15
-filterItem: consumeItemRadioactive
+filterItem: copper
 
 category: power
 buildVisibility: "shown"
