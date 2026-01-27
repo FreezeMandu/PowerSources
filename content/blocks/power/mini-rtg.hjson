@@ -2,10 +2,10 @@ type: consumeGenerator
 
 size: 1
 health: 200
-powerProduction: 4.5
+powerProduction: 2.5
 itemDuration: 180
 
-itemCapacity: 15
+itemCapacity: 12
 consumes: {
     items: [copper/1]
 }
