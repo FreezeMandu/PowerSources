@@ -6,7 +6,6 @@ laserRange: 10
 maxNodes: 20
 
 hasPower: true
-consumesPower: true
 consumes: {
  powerBuffered: 100
  power: 0.1

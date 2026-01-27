@@ -5,10 +5,9 @@ health: 200
 powerProduction: 4.5
 itemDuration: 180
 
-consumes: {
-
-}
+itemCapacity: 15
+filterItem: consumeItemRadioactive
 
 category: power
-buildVisibility: "hidden"
+buildVisibility: "shown"
 alwaysUnlocked: true
